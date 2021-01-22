@@ -30,7 +30,7 @@ I am Erdi, working as a fullstack developer currently. I like to learn new techn
 ![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=erdkse&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=erdkse&count_private=true&show_icons=true&include_all_commits=true&line_height=20)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdkse&count_private=true&show_icons=true&include_all_commits=true&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=erdkse.erdkse)
