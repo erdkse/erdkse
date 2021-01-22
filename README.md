@@ -29,7 +29,6 @@ I am Erdi, working as a fullstack developer currently. I like to learn new techn
 ![HTML5](https://img.shields.io/badge/-HTML5-f06529?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=erdkse&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdkse&count_private=true&show_icons=true&include_all_commits=true&layout=compact)
