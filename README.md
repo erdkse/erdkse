@@ -1,6 +1,6 @@
 ## Heyyy! <img src="https://raw.githubusercontent.com/erdkse/erdkse/main/wave.gif" width="30px">
 
-I am Erdi, working as a fullstack developer currently. I like to learn new technologies. If you have an idea feel free to contact me!!
+I am Erdi, currently, working as a fullstack developer. I like to learn new technologies. If you have an idea feel free to contact me!!
 
 [![Linkedin Badge](https://img.shields.io/badge/-erdkse-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erdkse/)](https://www.linkedin.com/in/erdkse/)
 [![Twitter Badge](https://img.shields.io/badge/-eqeeqs-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/eqeeqs/)](https://twitter.com/eqeeqs)
