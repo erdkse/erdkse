@@ -1,4 +1,4 @@
-## Heyyy! <img src="https://raw.githubusercontent.com/erdkse/erdkse/main/wave.gif" width="30px">
+## Heyyy! <img src="https://raw.githubusercontent.com/erdkse/erdkse/main/wave.gif" width="30">
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=erdkse.erdkse)![](https://hit.yhype.me/github/profile?user_id=2957624)
 
