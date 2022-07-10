@@ -33,13 +33,26 @@ I am Erdi, currently, working as a fullstack developer. I like to learn new tech
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
 
 <p align="center">
-    <img height="210em" src="https://github-readme-stats.vercel.app/api?username=erdkse&count_private=true&show_icons=true&include_all_commits=true&custom_title=erdkse%27s%20github%20stats&hide_border=true&line_height=28&theme=graywhite#gh-light-mode-only" align = "center"/>
-    <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdkse&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&theme=graywhite#gh-light-mode-only" align = "center"/>
-    <img height="210em" src="https://github-readme-stats.vercel.app/api?username=erdkse&count_private=true&show_icons=true&include_all_commits=true&custom_title=erdkse%27s%20github%20stats&hide_border=true&line_height=28&theme=dark#gh-dark-mode-only" align = "center"/>
-    <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdkse&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&theme=dark#gh-dark-mode-only" align = "center"/>
+    <a href="https://github.com/erdkse#gh-light-mode-only">
+        <img height="210em" src="https://github-readme-stats.vercel.app/api?username=erdkse&count_private=true&show_icons=true&include_all_commits=true&custom_title=erdkse%27s%20github%20stats&hide_border=true&line_height=28&theme=graywhite" align = "center"/>
+    </a>
+    <a href="https://github.com/erdkse#gh-light-mode-only">
+        <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdkse&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&theme=graywhite" align = "center"/>
+    </a>
+    <a href="https://github.com/erdkse#gh-dark-mode-only">
+        <img height="210em" src="https://github-readme-stats.vercel.app/api?username=erdkse&count_private=true&show_icons=true&include_all_commits=true&custom_title=erdkse%27s%20github%20stats&hide_border=true&line_height=28&theme=dark" align = "center"/>
+    </a>
+    <a href="https://github.com/erdkse#gh-dark-mode-only">
+        <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdkse&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&theme=dark" align = "center"/>
+    </a>
+
 </p>
 
 <p align="center">
-    <img height="210em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erdkse&theme=default#gh-light-mode-only" alt="erdkse" />
-    <img height="210em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erdkse&theme=dark#gh-dark-mode-only" alt="erdkse" />
+    <a href="https://github.com/erdkse#gh-light-mode-only">
+        <img height="210em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erdkse&theme=default" alt="erdkse" />
+    </a>
+    <a href="https://github.com/erdkse#gh-dark-mode-only">
+        <img height="210em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erdkse&theme=dark" alt="erdkse" />
+    </a>
 </p>
