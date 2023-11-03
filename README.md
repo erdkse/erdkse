@@ -6,7 +6,7 @@ I am Erdi, currently, working as a fullstack developer. I like to learn new tech
 
 [![Medium Badge](https://img.shields.io/badge/erdkse-12100E?style=flat&logo=medium&logoColor=white&link=https://medium.com/@erdkse)](https://medium.com/@erdkse)
 [![Linkedin Badge](https://img.shields.io/badge/-erdkse-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erdkse/)](https://www.linkedin.com/in/erdkse/)
-[![Twitter Badge](https://img.shields.io/badge/-eqeeqs-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/eqeeqs/)](https://twitter.com/eqeeqs)
+[![Twitter Badge](https://img.shields.io/badge/-the_real_erdkse-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/eqeeqs/)](https://twitter.com/the_real_erdkse)
 [![Instagram Badge](https://img.shields.io/badge/-erdkse-8a3ab9?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/erdkse/)](https://instagram.com/erdkse)
 [![Gmail Badge](https://img.shields.io/badge/-erdikose8@gmail.com-BB001B?style=flat&logo=Gmail&logoColor=white&link=mailto:erdikose8@gmail.com)](mailto:erdikose8@gmail.com)
 
