@@ -1,6 +1,8 @@
 ## Heyyy! <img src="https://raw.githubusercontent.com/erdkse/erdkse/main/wave.gif" width="30">
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=erdkse.erdkse)![](https://hit.yhype.me/github/profile?user_id=2957624)
+[![committers.top badge](https://user-badge.committers.top/turkey_private/erdkse.svg)](https://user-badge.committers.top/turkey_private/erdkse)
+
 
 I am Erdi, currently, working as a fullstack developer. I like to learn new technologies. If you have an idea feel free to contact me!!
 
